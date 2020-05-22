@@ -2,5 +2,4 @@
 
 sample() {
   echo "Hello from Function"
-
 }
