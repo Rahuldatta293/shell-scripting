@@ -17,3 +17,4 @@ case $TRAINING in
     echo "Demo Date: 31-May"
     echo "Batch Start Date: 01-June"
     ;;
+esac
