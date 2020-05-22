@@ -1,0 +1,4 @@
+#!/bin/bash
+
+MESSAGE=HELLOWORLD
+echo $MESSAGE
